@@ -19,3 +19,5 @@ const obj =  `[{ "a": 1, "b": 2 }, { "a": 3, "b": 4 }]`
 let jsonArr = JSON.parse(obj)
 
 console.log( jsonArr , typeof jsonArr)
+
+// master branch first commit
